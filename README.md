@@ -1,2 +1,2 @@
-# WideEditor
- Widen the new Gutenberg editor in WordPress
+# StretchEditor
+ Stretch the new editor (Gutenberg) in WordPress
