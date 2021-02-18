@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Stretch Block Editor (Gutenberg)
-Plugin URI: https://stephanventer.com/stretch-block-editor-gutenberg
+Plugin Name: Stretch Block Editor
+Plugin URI: https://stephanventer.com/stretch-block-editor
 Description: Plugin to stretch the new block editor (Gutenberg) in WordPress 
 Version: 1.0
 Author: Stephan Venter

@@ -1,7 +1,7 @@
 === Stretch Block Editor ===
 Contributors: stephanvent
 Donate link: https://stephanventer.com/
-Tags: editor, gutenburg, block editor
+Tags: editor, gutenberg, block editor
 Requires at least: 4.7
 Tested up to: 5.6.1
 Stable tag: 1.0
