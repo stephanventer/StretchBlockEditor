@@ -1,4 +1,4 @@
-# StretchEditor
+# Stretch Block Editor
  Stretch the new block editor(Gutenberg) in WordPress
 
 This simple plugin was implemented using the suggested method published by WordPress. See the link below for further reading.
