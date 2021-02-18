@@ -1,16 +1,16 @@
 <?php
 /*
-Plugin Name: Wide Editor (Gutenberg)
-Plugin URI: https://stephanventer.com/wide-editor-gutenberg
-Description: Plugin to widen the new WordPress post/page editor (Gutenberg) 
+Plugin Name: Stretch Editor (Gutenberg)
+Plugin URI: https://stephanventer.com/stretch-editor-gutenberg
+Description: Plugin to stretch the new WordPress post/page editor (Gutenberg) 
 Version: 1.0
 Author: Stephan
 Author URI: https://stephanventer.com/
 License: GPLv2 or later
-Text Domain: wideeditor
+Text Domain: stretcheditor
 */
 
-function admin_style_gb_editor_width() {
+function admin_style_editor_width() {
     /** https://developer.wordpress.org/block-editor/developers/themes/theme-support/#changing-the-width-of-the-editor **/
 	echo '
         <style>
@@ -33,4 +33,4 @@ function admin_style_gb_editor_width() {
     ';
 }
 
-add_action('admin_head', 'admin_style_gb_editor_width');
+add_action('admin_head', 'admin_style_editor_width');
