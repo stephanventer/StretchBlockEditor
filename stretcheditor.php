@@ -4,7 +4,7 @@ Plugin Name: Stretch Editor (Gutenberg)
 Plugin URI: https://stephanventer.com/stretch-editor-gutenberg
 Description: Plugin to stretch the new WordPress post/page editor (Gutenberg) 
 Version: 1.0
-Author: Stephan
+Author: Stephan Venter
 Author URI: https://stephanventer.com/
 License: GPLv2 or later
 Text Domain: stretcheditor
