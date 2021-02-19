@@ -10,7 +10,7 @@ License: GPLv2 or later
 Text Domain: stretchblockeditor
 */
 
-function admin_style_editor_width() {
+function stretchblockeditor_set_editor_width() {
 	
 	$width = get_option( 'stretchblockeditor_width' );
 	
@@ -35,7 +35,7 @@ function admin_style_editor_width() {
 	<?php
 }
 
-add_action('admin_head', 'admin_style_editor_width');
+add_action('admin_head', 'stretchblockeditor_set_editor_width');
 
 #Register settings
 function stretchblockeditor_register_settings() {
